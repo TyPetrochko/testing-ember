@@ -7,17 +7,17 @@ export default DS.Model.extend({
     FIXTURES: [
         {
             id: 1,
-            title: "Complete Ember.js Tutorial",
+            title: "Think of a way to constructively spend afternoon",
             isCompleted: false
         },
         {
             id: 2,
-            title: "Checkout some more ember stuff",
+            title: "Bother Earl",
             isCompleted: true
         },
         {
             id: 3,
-            title: "Solve world hunger (with Ember)",
+            title: "Reject projected life course",
             isCompleted: false
         }
     ]
